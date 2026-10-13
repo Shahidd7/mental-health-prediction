@@ -135,6 +135,9 @@ Sleep_Hours_Per_Night	Float	Average nightly sleep
 
 Stress_Level	Categorical	Low / Medium / High / Very High
 
+## 🖥️ Live Application Preview
+
+![Mental Health Predictor](mental_health_predictor.png)
 
 ## 🔮 Prediction
 
